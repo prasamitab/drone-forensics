@@ -1,4 +1,4 @@
-# drone-forensics
+# Drone-Forensics
 # Autopsy Drone-Forensics Experiment
 
 This repository documents a controlled Autopsy experiment for examining a
