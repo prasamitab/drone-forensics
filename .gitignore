@@ -1,0 +1,21 @@
+.DS_Store
+*.log
+*.tmp
+*.swp
+*.class
+.idea/
+.vscode/
+
+# Large forensic images
+*.dd
+*.E01
+*.e01
+*.AD1
+*.ad1
+*.img
+*.raw
+
+# Autopsy-generated working directories
+autopsy_case/
+case_data/
+output/
