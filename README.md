@@ -79,7 +79,4 @@ The repository records both successful steps and installation failures.
 Exact software versions, command output, screenshots, and hashes should
 be preserved whenever available.
 
-## Ethical note
 
-Do not upload real seized evidence, personal information, credentials,
-private flight logs, or copyrighted datasets without authorization.
