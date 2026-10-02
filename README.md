@@ -288,13 +288,4 @@ This repository supports the accompanying research paper:
 Drone Forensics: A Comparative Investigation Using Autopsy and FTK Imager
 ```
 
-Add the final authorship, venue, DOI, and publication details after the
-paper is accepted or published.
 
-## License
-
-Add an appropriate license before making the repository public. If the
-repository contains only original documentation and synthetic artifacts,
-an open-source license may be suitable. Confirm that all included
-software documentation, screenshots, datasets, and third-party materials
-can legally be redistributed.
