@@ -1,0 +1,25 @@
+Autopsy Experiment Environment
+
+Operating system:
+macOS on Apple Silicon/M2 MacBook Air
+
+Autopsy:
+Forensic Browser version 2.24
+
+The Sleuth Kit:
+Used as the forensic-analysis backend
+
+Java:
+Java 17 was configured for the installation attempt
+
+Package manager:
+Homebrew
+
+Installation prerequisites:
+Automake
+Libtool
+OpenJDK 17
+
+Installation note:
+The initial Sleuth Kit source build failed because aclocal was not
+available. Automake and Libtool were then installed through Homebrew.
