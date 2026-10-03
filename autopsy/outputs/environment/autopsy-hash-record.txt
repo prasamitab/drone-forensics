@@ -1,0 +1,32 @@
+Autopsy Image Integrity Record
+
+Case:
+INFECTED_DISK_LAB
+
+Host:
+INFECTED_PC
+
+Image file:
+infected_disk.dd
+
+Image identifier:
+img1
+
+Disk-image identifier:
+vol1
+
+Volume identifier:
+vol2
+
+Filesystem:
+FAT32
+
+Partition range:
+Sector 63 to sector 102374
+
+MD5 hash displayed by Autopsy:
+C63D5960E53FDA922F96791A10DED77F
+
+Interpretation:
+The MD5 value was calculated during image ingestion. It records the
+integrity value displayed by Autopsy for the synthetic disk image.
